@@ -1,5 +1,9 @@
 # deep-learning-projects
+
 Deep learning experiments and projects showcasing AI techniques in vision, NLP, and data modeling using Python and leading frameworks.        
+## 📄 Project Overview  
+
+This repository showcases various deep learning projects, starting with a Handwritten Digit Recognition model using the MNIST dataset. Each project demonstrates practical applications of deep learning techniques.
 
 
 A collection of deep learning projects implemented using PyTorch and other popular Python libraries.
@@ -12,6 +16,13 @@ Each project focuses on applying deep learning techniques to real-world datasets
 
 
 # 📂  Projects
+
+## 📌 Projects
+
+| Project Name                | Description                                       | Colab Link                                                                 |
+|-----------------------------|-------------------------------------------------|---------------------------------------------------------------------------|
+| Handwritten Digit Recognition | Classifies digits from the MNIST dataset using a CNN | [Open in Colab](https://colab.research.google.com/drive/1CKHTts2McvDdihnq6tM506kehOslp1Ml) |
+
 
 More projects will be added soon ,
 
